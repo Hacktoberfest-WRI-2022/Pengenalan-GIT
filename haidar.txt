@@ -1,0 +1,5 @@
+nama : Haidar Aly
+Jurusan : Teknologi Informasi
+Prodi : D4 Teknik Informatika
+
+-- Latihan Fork GitHub --
